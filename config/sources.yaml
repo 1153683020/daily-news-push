@@ -1,0 +1,11 @@
+weights:
+  xinhuanet.com: 1.0
+  people.com.cn: 1.0
+  cctv.com: 0.95
+  chinanews.com.cn: 0.9
+  thepaper.cn: 0.85
+  reuters.com: 1.0
+  apnews.com: 0.95
+  bbc.com: 0.9
+  cnn.com: 0.85
+  aljazeera.com: 0.8

@@ -1,0 +1,26 @@
+domestic:
+  - query: "今日国内热点新闻"
+    include_domains:
+      - "xinhuanet.com"
+      - "people.com.cn"
+      - "cctv.com"
+      - "chinanews.com.cn"
+      - "thepaper.cn"
+  - query: "今日国内重大新闻"
+    include_domains:
+      - "xinhuanet.com"
+      - "people.com.cn"
+      - "cctv.com"
+international:
+  - query: "top international news today"
+    include_domains:
+      - "reuters.com"
+      - "apnews.com"
+      - "bbc.com"
+      - "cnn.com"
+      - "aljazeera.com"
+  - query: "world major news today"
+    include_domains:
+      - "reuters.com"
+      - "apnews.com"
+      - "bbc.com"
